@@ -1,6 +1,5 @@
 # Streaming-lit
 
-Here's a detailed `README.md` template for your "streamlit-intro-to" repository. It covers the essentials of Streamlit, provides examples, and includes best practices.
 
 ---
 
